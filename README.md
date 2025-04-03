@@ -1,3 +1,7 @@
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Platform](https://img.shields.io/badge/platform-embedded-lightgrey)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jafarbnr/vehicle-motion-estimation/blob/main/visualization/kalman_filter_demo.ipynb)
 
 # 🚗 Vehicle Motion Estimation
 
@@ -5,13 +9,11 @@ A portable C-based Kalman Filter system for estimating 2D and 3D vehicle motion,
 
 ---
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Platform](https://img.shields.io/badge/platform-embedded-lightgrey)
-![Status](https://img.shields.io/badge/status-active-brightgreen)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jafarbnr/vehicle-motion-estimation/blob/main/visualization/kalman_filter_demo.ipynb)
+## 📊 Demo
 
+![Kalman Filter Demo](demo/kalman_3d_demo.gif)
 
-
+---
 
 ## 🧠 Features
 
@@ -23,6 +25,12 @@ A portable C-based Kalman Filter system for estimating 2D and 3D vehicle motion,
 - ✅ Python plotting scripts
 - ✅ Ready for STM32, FreeRTOS, or Raspberry Pi Pico
 - ✅ Real-time test simulation and CSV logging
+
+---
+
+## ▶️ Try It Online
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jafarbnr/vehicle-motion-estimation/blob/main/visualization/kalman_filter_demo.ipynb)
 
 ---
 
